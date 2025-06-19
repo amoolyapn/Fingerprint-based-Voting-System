@@ -1,11 +1,11 @@
-# 🗳️ Fingerprint-Based Voting System - ### 🛡️  ONE PERSON, ONE VOTE
+ 🗳️ Fingerprint-Based Voting System - 🛡️ ONE PERSON, ONE VOTE
 
 
 A secure and user-friendly **biometric voting system** using fingerprint authentication, designed to ensure **"One Person, One Vote"**. Built as a prototype for 3 users.
 
 ---
 
-## 📌 Features
+📌 Features
 
 - ✅ Fingerprint-based user authentication  
 - ✅ Each user can vote **only once**
@@ -15,7 +15,7 @@ A secure and user-friendly **biometric voting system** using fingerprint authent
 
 ---
 
-## 👤 Registered Users (Sample Demo)
+👤 Registered Users (Sample Demo)
 
 - User 1: `Voter ID 101`  
 - User 2: `Voter ID 102`  
